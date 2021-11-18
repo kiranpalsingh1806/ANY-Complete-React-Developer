@@ -1,0 +1,5 @@
+Creating our first React App:
+
+Requirements:
+NodeJS
+ReactJS
