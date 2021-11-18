@@ -1,0 +1,16 @@
+ReactJS:
+It was invented after AngularJS.
+AngularJS was framework but ReactJS is only about UI.
+
+One way data flow (Unidirectional Data Flow)
+Data can never move up in DOM.
+It is a restriction on how data move in our app.
+Helps in debugging.
+
+UI - User Interface
+React is a declarative paradigm.
+
+Job of React Developer:
+Decide on Components
+Decide the State and where it lives
+What changes when state changes
