@@ -1,0 +1,9 @@
+NPM - Node Package Manager
+
+npm - globaly and keeps it in the disk.
+
+npx is actually child of npm
+
+npx - executes immediately and deletes it from the disk.
+Don't clog up the environment.
+Use it when we need it and use its latest version.
