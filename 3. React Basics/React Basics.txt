@@ -3,3 +3,23 @@ Creating our first React App:
 Requirements:
 NodeJS
 ReactJS
+
+Strict Mode:
+For old deprecated code. Strict Mode wants us not to use
+deprecated stuff. Strict mode will throw warning if we use
+deprecated methods.
+
+NPM Build:
+Condensing the code for optimal memory usage. Leveraging Babel and webpack.
+
+NPM Test:
+For testing our written code.
+
+NPM Eject:
+Not recommended. Facebook made it optimally. 
+
+Babel:
+Convert React code to basic Javascript that can be understood by every browser.
+
+Webpack:
+Let me break down react code into chunks. It modularises our code.
