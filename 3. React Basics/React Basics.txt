@@ -1,4 +1,4 @@
-Creating our first React App:
+Section 3: React Basics
 
 Requirements:
 NodeJS
@@ -15,11 +15,16 @@ Condensing the code for optimal memory usage. Leveraging Babel and webpack.
 NPM Test:
 For testing our written code.
 
-NPM Eject:
-Not recommended. Facebook made it optimally. 
-
 Babel:
 Convert React code to basic Javascript that can be understood by every browser.
 
 Webpack:
 Let me break down react code into chunks. It modularises our code.
+
+24.NPM Eject
+Not recommended. Facebook made it optimally. 
+Creates config folder.
+Also creater jest folder, webpack configuration etc.
+
+25. Hooks vs Classes
+Hooks is new concept. It solves many problems with classes.
