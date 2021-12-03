@@ -28,3 +28,18 @@ Also creater jest folder, webpack configuration etc.
 
 25. Hooks vs Classes
 Hooks is new concept. It solves many problems with classes.
+
+26. Using Class Component in React
+Using constructor(), super(), render()
+
+27. Thinking JSX
+className, { }, onClick is Camelcase instead of onclick in html.
+JSX is trying to mimic HTML to create the virtual DOM to break down the app into
+component and we can change state of the DOM.
+
+28. Dynamic Content
+
+29. map() + key attribute
+
+30. Single Page Application
+Requesting data instead of HTML pages.
