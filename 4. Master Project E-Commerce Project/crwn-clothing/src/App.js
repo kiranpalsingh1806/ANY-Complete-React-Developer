@@ -5,6 +5,7 @@ import './App.css';
 import ShopPage from './pages/shop/shop.component';
 
 import HomePage from './pages/homepage/homepage.component';
+import Header from './components/header/header.component';
 
 const HatsPage = () => {
   return (
@@ -18,6 +19,7 @@ function App() {
   return (
     <div>
       <Routes>
+        <Header />
         <Route path="/" element={<HomePage />} />
         <Route path="shop" element={<ShopPage />} />
       </Routes>
